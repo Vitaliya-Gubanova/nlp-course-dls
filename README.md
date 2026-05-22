@@ -1,11 +1,11 @@
-# 🗣 NLP Course — Deep Learning School, ФПМИ МФТИ
+# NLP Course — Deep Learning School, ФПМИ МФТИ
 
 Домашние задания второго семестра **Deep Learning School** (МФТИ).  
 Тема семестра: **языковые модели и NLP**.
 
 ---
 
-## 📋 Содержание
+## Содержание
 
 | № | Тема | Ноутбук | Ключевые концепции |
 |---|------|---------|--------------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔍 Краткое описание задач
+## Краткое описание задач
 
 ### 1 · Word Embeddings
 Изучение семантических представлений слов: векторные пространства, аналогии, визуализация через t-SNE.
@@ -40,13 +40,13 @@
 
 ---
 
-## 🛠 Технологии
+## Технологии
 
 `Python` · `PyTorch` · `HuggingFace Transformers` · `FAISS` · `LangChain` · `sentence-transformers` · `CatBoost` · `LightGBM` · `scikit-learn` · `NLTK` · `Pandas` · `NumPy` · `Matplotlib` · `UMAP`
 
 ---
 
-## 📁 Структура репозитория
+## Структура репозитория
 
 ```
 nlp-course-dls/
